@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quadrant Composer</string>
+
+    <string name="quad_text_heading">Text composables</string>
+    <string name="quad_text_detail">Text composables display text and are useful for showing information to the user.</string>
+
+    <string name="quad_image_heading">Image composables</string>
+    <string name="quad_image_detail">Image composables display images and other visual content in your application.</string>
+
+    <string name="quad_row_heading">Row composables</string>
+    <string name="quad_row_detail">Row composables arrange elements horizontally across the screen.</string>
+
+    <string name="quad_column_heading">Column composables</string>
+    <string name="quad_column_detail">Column composables arrange elements vertically on the screen.</string>
+</resources>
